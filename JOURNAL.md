@@ -1,5 +1,8 @@
 ---
 title: "BRUCE"
+
 author: "Swar Gupta "
-description: ""
-created_at: "2026-03-20"
+
+description: "Bruce is a device like flipper zero offering same functionality at lower costs"
+
+created_at: "2026-05-14"
